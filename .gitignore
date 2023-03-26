@@ -1,0 +1,4 @@
+content/*
+!content/index.md
+resources/_gen
+.hugo_build.lock

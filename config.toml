@@ -1,0 +1,6 @@
+baseURL = 'https://photos.valentinriess.com/'
+languageCode = 'en-us'
+title = "Photostream"
+theme = "photo-stream"
+[params]
+album_date_format = "2006"
