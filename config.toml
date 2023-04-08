@@ -4,3 +4,5 @@ title = "Photostream"
 theme = "photo-stream"
 [params]
 album_date_format = "2006"
+[security.funcs]
+getenv = ['^HUGO_','GITHUB_USERNAME','TWITTER_USERNAME','INSTAGRAM_USERNAME','CUSTOM_LINK_URL','CUSTOM_LINK_NAME']
